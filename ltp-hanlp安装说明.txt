@@ -1,0 +1,1 @@
+先安装好Pyhton3.7.7,然后点"ltp-hanlp-inst.bat"文件再将“Modified_pycantonese.rar”压缩包里的“pycantonese”文件夹复制粘贴到Pyhton3.7.7安装路径下的“Lib\site-packages”位置覆盖原有的“pycantonese”文件夹。
